@@ -1,4 +1,4 @@
-mport { Component, VERSION } from '@angular/core';
+port { Component, VERSION } from '@angular/core';
 
 @Component({
   selector: 'my-app',
